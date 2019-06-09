@@ -1,0 +1,3 @@
+[submodule "submodules/submodule-a"]
+	path = submodules/submodule-a
+	url = github:asding/git-submodule-demo-submodule-a.git
